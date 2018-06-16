@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import './App.css'
 import Element from './Element'
 
-
 class App extends Component {
 
   //*********** Intializing *************
